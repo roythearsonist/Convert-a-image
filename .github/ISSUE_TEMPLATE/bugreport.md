@@ -6,5 +6,6 @@ labels: bug
 assignees: ''
 
 ---
-
-
+1. What is the bug you are reporting?
+2. What is the desired result?
+3. How can we fix this?(add source code here)
