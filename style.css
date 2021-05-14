@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+:root{
+font-family: 'Noto Sans KR', sans-serif;
+background-color: gray;
+}
+#header{
+font-size: 32px;
+text-align: center;
+font-family: 'Pacifico', cursive;
+}
