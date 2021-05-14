@@ -6,10 +6,14 @@ font-family: 'Noto Sans KR', sans-serif;
 background-color:lightblue;
 }
 #header{
-font-size: 32px;
+font-size: 2em;
 text-align: center;
 font-family: 'Pacifico', cursive;
 }
 .center{
 text-align: center;
+}
+#faq{
+text-align: center;
+font-size: 1.5em;
 }
